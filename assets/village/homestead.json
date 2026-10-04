@@ -1,0 +1,17 @@
+{
+  "name": "Your Homestead",
+  "width": 32,
+  "depth": 28,
+  "seed": 4207,
+  "spawn": [-10, 0],
+  "villageApproach": [-21, 0],
+  "villageGate": [-14, 0],
+  "house": { "x": 0, "z": -8, "width": 6, "depth": 5, "height": 1.45, "approach": [0, -4] },
+  "field": { "kind": "field", "x": 8, "z": 7, "width": 12, "depth": 10 },
+  "routes": [
+    { "name": "arrival lane", "width": 2.5, "points": [[-14, 0], [0, 0]] },
+    { "name": "house path", "width": 2.2, "points": [[0, 0], [0, -4]] },
+    { "name": "field path", "width": 2.2, "points": [[0, 0], [8, 2]] }
+  ],
+  "plots": [[4, 5], [6, 5], [8, 5], [10, 5], [4, 7], [6, 7], [8, 7], [10, 7]]
+}

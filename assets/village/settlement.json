@@ -1,0 +1,40 @@
+{
+  "name": "Willowcross Village",
+  "width": 48,
+  "depth": 44,
+  "seed": 7319,
+  "spawn": [0, 3],
+  "regions": [
+    { "kind": "plaza", "x": 0, "z": 0, "width": 11, "depth": 9 },
+    { "kind": "farm", "x": 16, "z": 16, "width": 16, "depth": 12 },
+    { "kind": "pond", "x": -18, "z": 14, "width": 7, "depth": 6 }
+  ],
+  "routes": [
+    { "name": "village street", "width": 2.8, "points": [[-22, 0], [22, 0]] },
+    { "name": "hall walk", "width": 2.4, "points": [[0, -4], [0, -10.5]] },
+    { "name": "dungeon road", "width": 3.0, "points": [[0, 4], [0, 21]] },
+    { "name": "inn walk", "width": 2.0, "points": [[-11, -1], [-11, -5.1]] },
+    { "name": "shop walk", "width": 2.0, "points": [[10, -1], [10, -5.1]] },
+    { "name": "store walk", "width": 2.0, "points": [[-18, -1], [-18, -5.1]] },
+    { "name": "forge walk", "width": 2.0, "points": [[17, -1], [17, -5.1]] },
+    { "name": "west homes", "width": 2.0, "points": [[-11, 1], [-11, 5.1]] },
+    { "name": "east homes", "width": 2.0, "points": [[12, 1], [12, 5.1]] },
+    { "name": "west cottage", "width": 2.0, "points": [[-6, 3], [-6, 9.1]] },
+    { "name": "east cottage", "width": 2.0, "points": [[6, 3], [6, 9.1]] },
+    { "name": "pond walk", "width": 2.0, "points": [[-18, 1], [-18, 9.1]] },
+    { "name": "farm lane", "width": 2.4, "points": [[18, 1], [18, 10]] }
+  ],
+  "buildings": [
+    { "id": "hall", "label": "HALL", "interior": "hall", "zone": "square", "x": 0, "z": -14, "width": 6, "depth": 4, "height": 1.45, "approach": [0, -10] },
+    { "id": "inn", "label": "INN", "interior": "inn", "zone": "market", "x": -11, "z": -8, "width": 5, "depth": 4, "height": 1.15, "approach": [-11, -5] },
+    { "id": "shop", "label": "SHOP", "interior": "shop", "zone": "market", "x": 10, "z": -8, "width": 4, "depth": 4, "height": 1.0, "approach": [10, -5] },
+    { "id": "store", "label": "STORE", "interior": "store", "zone": "market", "x": -18, "z": -8, "width": 4, "depth": 4, "height": 0.9, "approach": [-18, -5] },
+    { "id": "forge", "label": "FORGE", "interior": "forge", "zone": "market", "x": 17, "z": -8, "width": 4, "depth": 4, "height": 1.0, "approach": [17, -5] },
+    { "id": "west_home", "label": "HOME A", "interior": "home", "zone": "homes", "x": -11, "z": 8, "width": 4, "depth": 4, "height": 0.9, "approach": [-11, 5] },
+    { "id": "east_home", "label": "HOME B", "interior": "home", "zone": "homes", "x": 12, "z": 8, "width": 4, "depth": 4, "height": 0.9, "approach": [12, 5] },
+    { "id": "west_cottage", "label": "HOME C", "interior": "home", "zone": "homes", "x": -6, "z": 12, "width": 4, "depth": 4, "height": 0.8, "approach": [-6, 9] },
+    { "id": "east_cottage", "label": "HOME D", "interior": "home", "zone": "homes", "x": 6, "z": 12, "width": 4, "depth": 4, "height": 0.8, "approach": [6, 9] },
+    { "id": "barn", "label": "BARN", "interior": "barn", "zone": "farm", "x": 18, "z": 13, "width": 5, "depth": 4, "height": 1.15, "approach": [18, 10] }
+  ],
+  "checkpoints": [[0, 3], [0, -10], [-18, 0], [18, 0], [-18, 9], [18, 10], [0, 20]]
+}

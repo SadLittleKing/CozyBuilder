@@ -1,0 +1,10 @@
+{
+  "name": "woodland_rock",
+  "units": "metres",
+  "footprint": [1.16, 1.16],
+  "base_height": 0.45,
+  "peak_height": 1.10,
+  "base_rgb": [137, 143, 139],
+  "side_rgb": [102, 110, 107],
+  "notes": "Editable source for the faceted mineable rock. GameClient uses matching dimensions in MazeResources.Rock."
+}

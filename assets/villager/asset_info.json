@@ -1,0 +1,40 @@
+{
+  "mesh_objects": 48,
+  "triangles": 3964,
+  "dimensions_metres": [
+    1.2336523532867432,
+    0.5329999923706055,
+    1.8530000448226929
+  ],
+  "bounds_blender": {
+    "min": [
+      -0.6168261766433716,
+      -0.2619999945163727,
+      0.0
+    ],
+    "max": [
+      0.6168261766433716,
+      0.2709999978542328,
+      1.8530000448226929
+    ]
+  },
+  "materials": 13,
+  "rigged": false,
+  "animations": 0,
+  "coordinates": "Blender Z up / front -Y; glTF Y up / front +Z",
+  "palette": {
+    "Skin": "#D8A078",
+    "Hair": "#573B30",
+    "HairHighlight": "#77513C",
+    "Tunic": "#5C8072",
+    "TunicLight": "#789B85",
+    "TunicDark": "#436255",
+    "Undershirt": "#EAD8B4",
+    "Trousers": "#57616A",
+    "Leather": "#79523B",
+    "Sole": "#453B36",
+    "Brass": "#CDA765",
+    "Eyes": "#302F2E",
+    "Cheek": "#C5826B"
+  }
+}

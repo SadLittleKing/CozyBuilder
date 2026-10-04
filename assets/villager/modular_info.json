@@ -1,0 +1,180 @@
+{
+  "shared_body": "villager.base",
+  "hair": [
+    "swept",
+    "bun"
+  ],
+  "outfit": [
+    "sage",
+    "rust"
+  ],
+  "hand": [
+    "none",
+    "sword"
+  ],
+  "back": [
+    "none",
+    "backpack"
+  ],
+  "equipment": {
+    "head": [
+      "none",
+      "padded_hood",
+      "iron_helm"
+    ],
+    "body": [
+      "none",
+      "padded_vest",
+      "iron_cuirass"
+    ],
+    "gloves": [
+      "none",
+      "leather_gloves",
+      "iron_gauntlets"
+    ],
+    "feet": [
+      "none",
+      "trail_boots",
+      "iron_boots"
+    ]
+  },
+  "sockets": {
+    "Socket_Hand_R": {
+      "future_bone": "hand_r",
+      "blender_position": [
+        0.5350000262260437,
+        -0.013000000268220901,
+        0.8109999895095825
+      ],
+      "blender_rotation_radians": [
+        2.4024951457977295,
+        -6.945573716166109e-08,
+        1.3006433248519897
+      ]
+    },
+    "Socket_Back": {
+      "future_bone": "spine_02",
+      "blender_position": [
+        0.0,
+        0.1589999943971634,
+        1.0800000429153442
+      ]
+    }
+  },
+  "parts": [
+    "Shared__Body_Torso",
+    "Shared__Body_Neck",
+    "Shared__Body_Head",
+    "Shared__Body_Ear_L",
+    "Shared__Body_UpperArm_L",
+    "Shared__Body_Forearm_L",
+    "Shared__Body_Hand_L",
+    "Shared__Body_Thumb_L",
+    "Shared__Body_Ear_R",
+    "Shared__Body_UpperArm_R",
+    "Shared__Body_Forearm_R",
+    "Shared__Body_Hand_R",
+    "Shared__Body_Thumb_R",
+    "Shared__Face_Eye_L",
+    "Shared__Face_Brow_L",
+    "Shared__Face_Cheek_L",
+    "Shared__Face_Eye_R",
+    "Shared__Face_Brow_R",
+    "Shared__Face_Cheek_R",
+    "Shared__Face_Nose",
+    "Shared__Face_Mouth",
+    "Hair_Swept__Cap",
+    "Hair_Swept__Fringe_Centre",
+    "Hair_Swept__Fringe_Left",
+    "Hair_Swept__Fringe_Right",
+    "Outfit_Sage__Tunic",
+    "Outfit_Sage__Hem",
+    "Outfit_Sage__Collar",
+    "Outfit_Sage__CollarTab_L",
+    "Outfit_Sage__Sleeve_L",
+    "Outfit_Sage__SleeveCuff_L",
+    "Outfit_Sage__Trouser_L",
+    "Outfit_Sage__CollarTab_R",
+    "Outfit_Sage__Sleeve_R",
+    "Outfit_Sage__SleeveCuff_R",
+    "Outfit_Sage__Trouser_R",
+    "Outfit_Sage__Belt",
+    "Outfit_Sage__Buckle",
+    "Outfit_Sage__BuckleInset",
+    "Outfit_Sage__Pouch",
+    "Outfit_Sage__PouchFlap",
+    "Outfit_Sage__PouchStud",
+    "Shared__Footwear_Boot_L",
+    "Shared__Footwear_Sole_L",
+    "Shared__Footwear_Cuff_L",
+    "Shared__Footwear_Boot_R",
+    "Shared__Footwear_Sole_R",
+    "Shared__Footwear_Cuff_R",
+    "Hair_Bun__Cap",
+    "Hair_Bun__Bun",
+    "Hair_Bun__Tie",
+    "Hair_Bun__Temple_-1",
+    "Hair_Bun__Temple_1",
+    "Outfit_Rust__Tunic",
+    "Outfit_Rust__Hem",
+    "Outfit_Rust__Collar",
+    "Outfit_Rust__CollarTab_L",
+    "Outfit_Rust__Trouser_L",
+    "Outfit_Rust__CollarTab_R",
+    "Outfit_Rust__Trouser_R",
+    "Outfit_Rust__Belt",
+    "Outfit_Rust__Buckle",
+    "Outfit_Rust__BuckleInset",
+    "Outfit_Rust__Pouch",
+    "Outfit_Rust__PouchFlap",
+    "Outfit_Rust__PouchStud",
+    "Outfit_Rust__SleeveUpper_L",
+    "Outfit_Rust__SleeveLower_L",
+    "Outfit_Rust__SleeveCuff_L",
+    "Outfit_Rust__SleeveUpper_R",
+    "Outfit_Rust__SleeveLower_R",
+    "Outfit_Rust__SleeveCuff_R",
+    "Equipment_Sword__Grip",
+    "Equipment_Sword__Pommel",
+    "Equipment_Sword__Guard",
+    "Equipment_Sword__Blade",
+    "Equipment_Backpack__Bag",
+    "Equipment_Backpack__Flap",
+    "Equipment_Backpack__Clasp",
+    "Equipment_Backpack__Strap_L",
+    "Equipment_Backpack__Strap_R",
+    "Equipment_Backpack__Bedroll",
+    "Gear_Head_Hood__Cap",
+    "Gear_Head_Hood__Brim",
+    "Gear_Head_Helm__Shell",
+    "Gear_Head_Helm__Brow",
+    "Gear_Head_Helm__Cheek_L",
+    "Gear_Head_Helm__Cheek_R",
+    "Gear_Body_Vest__Shell",
+    "Gear_Body_Vest__Front",
+    "Gear_Body_Cuirass__Shell",
+    "Gear_Body_Cuirass__Plate",
+    "Gear_Body_Cuirass__Badge",
+    "Gear_Gloves_Leather__Hand_L",
+    "Gear_Gloves_Leather__Cuff_L",
+    "Gear_Gloves_Leather__Hand_R",
+    "Gear_Gloves_Leather__Cuff_R",
+    "Gear_Gloves_Iron__Hand_L",
+    "Gear_Gloves_Iron__Plate_L",
+    "Gear_Gloves_Iron__Cuff_L",
+    "Gear_Gloves_Iron__Hand_R",
+    "Gear_Gloves_Iron__Plate_R",
+    "Gear_Gloves_Iron__Cuff_R",
+    "Gear_Feet_Trail__Boot_L",
+    "Gear_Feet_Trail__Sole_L",
+    "Gear_Feet_Trail__Boot_R",
+    "Gear_Feet_Trail__Sole_R",
+    "Gear_Feet_Iron__Boot_L",
+    "Gear_Feet_Iron__Toe_L",
+    "Gear_Feet_Iron__Sole_L",
+    "Gear_Feet_Iron__Boot_R",
+    "Gear_Feet_Iron__Toe_R",
+    "Gear_Feet_Iron__Sole_R"
+  ],
+  "rigged": false
+}

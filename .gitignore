@@ -100,7 +100,6 @@ StyleCopReport.xml
 *_h.h
 *.ilk
 *.meta
-*.obj
 *.idb
 *.iobj
 *.pch
@@ -426,3 +425,16 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Local verification builds and scratch captures.
+**/verifybin/
+/verification-output/
+/screenshot.png
+/screenshot-*.png
+
+# Blender backup/autosave copies; keep authored .blend and exported .glb files.
+*.blend[0-9]*
+*.autosave.blend
+
+# OBJ files in this repository are authored/exported model assets, not C++
+# compiler intermediates, so the template's blanket *.obj rule is omitted.

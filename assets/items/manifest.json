@@ -1,0 +1,23 @@
+{
+  "format": "glTF 2.0 GLB",
+  "source": "villager_modular.blend and procedural low-poly resource props",
+  "item_ids": [
+    "padded_hood",
+    "iron_helm",
+    "padded_vest",
+    "iron_cuirass",
+    "leather_gloves",
+    "iron_gauntlets",
+    "trail_boots",
+    "iron_boots",
+    "common_seed",
+    "rare_seed",
+    "crop",
+    "wood",
+    "stone",
+    "ore",
+    "apple",
+    "berry",
+    "plum"
+  ]
+}

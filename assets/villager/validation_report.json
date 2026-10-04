@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "file": "C:\\waywardleaf\\Research\\Game\\assets\\villager\\villager_base.glb",
+  "bytes": 249468,
+  "meshes": 48,
+  "triangles": 3964,
+  "exported_vertices": 7928,
+  "materials": 13,
+  "checks": [
+    "GLB container and buffer/accessor bounds",
+    "finite positions and unit normals",
+    "triangle indices and materials",
+    "no external dependencies",
+    "no preview stage, cameras, skinning or animations",
+    "matches source statistics"
+  ]
+}
